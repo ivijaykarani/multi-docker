@@ -20,3 +20,4 @@ after_success:
   - docker push ivijaykarani/multi-nginx
   - docker push ivijaykarani/multi-server
   - docker push ivijaykarani/multi-worker
+
